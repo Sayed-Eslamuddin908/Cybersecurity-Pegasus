@@ -1,0 +1,14 @@
+# Pegasus - Android Device Management Tool
+# Requirements File
+# Install: pip install -r requirements.txt
+
+# Required
+colorama>=0.4.6        # Color-coded terminal output (Windows/Linux/macOS/Termux)
+
+# Already built into Python (no install needed):
+# os, sys, base64, zlib, hashlib, hmac, subprocess, re, datetime, time, json
+
+# System tools (install separately via your OS package manager):
+# adb          → Android Debug Bridge  (required for all features)
+# scrcpy       → Screen Mirror         (optional, NOT available in Termux)
+# nmap         → Network Security Scan (optional)
