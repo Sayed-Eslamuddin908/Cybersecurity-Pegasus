@@ -729,6 +729,6 @@ It helps others find the project and motivates continued development.
 ---
 
 👨‍💻 **Author**  
-- Reconstruction/modifications:❤️ by **Sayed Esdlamuddin** 
-- Credit To **Alok Thakur**
+- Designed And Engineer ❤️ by **Sayed Esdlamuddin** 
+
 
