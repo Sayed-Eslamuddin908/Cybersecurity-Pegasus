@@ -163,18 +163,11 @@ git clone https://github.com/Sayed Esdlamuddin/PAGASUS-PRO.git
 cd PAGASUS-PRO
 ```
 
-**Step 7 — Run Pegasus v1.3**
+**Step 7 — Run Pegasus v1.1**
 ```bash
-python3 pegasus_v_1.3.py
+python3 pegasus_v_1.1.py
 ```
 
-> Want to run an older version?
-> ```bash
-> python3 pegasusV-1.2.py   # Run v1.2
-> python3 pegasus_v1.1.py   # Run v1.1
-> ```
-
----
 
 ### 🔷 Linux — Arch / Manjaro / BlackArch
 
