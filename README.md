@@ -157,7 +157,7 @@ cd PAGASUS-PRO
 
 **Step 7 — Run Pegasus v1.1**
 ```bash
-python3 pegasus_v_1.1.py
+python3 pegasus_V_1.1.py
 ```
 
 
