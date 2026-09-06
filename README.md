@@ -9,7 +9,7 @@
 ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
 ```
 
-# PEGASUS v1.3
+# PEGASUS v1.1 Engineer and Degined By Sayed Eslamuddin
 
 **Android Device Management & Security Audit Tool**
 
