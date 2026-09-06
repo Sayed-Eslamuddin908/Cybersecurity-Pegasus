@@ -104,14 +104,6 @@
   
 ![Pegasus Terminal 1](Screenshot_2025_1002_113702.jpg)
 
-## Main Menu — Pegasus v1.2
-
-![Pegasus Terminal 2](Screenshot_2025_1003_144711.jpg)
-
-## Main Menu — Pegasus v1.3
-
-![Pegasus Main Menu](Screenshot%202026-02-23%20223428.png)
-
 </div>
 
 ---
